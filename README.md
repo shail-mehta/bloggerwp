@@ -2,8 +2,7 @@ Bloggerwp theme is lightweight Responsive blog theme. it supports Gutenberg Edit
 
 Feature:
 -------
-    Easy Customizable Theme
+    Lightweight Theme
     Responsive Theme
     Custom Logo
-    Custom Background Colour
     Custom copyright text
