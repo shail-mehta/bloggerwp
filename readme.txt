@@ -32,7 +32,7 @@ Yes
 
 == Changelog ==
 
-= 1.0.2 
+= 1.0.3 
 * Initial release
 
 == Credits ==
@@ -55,7 +55,7 @@ Source: https://iconscout.com/icon/menu-1912215
 
 == Copyright ==
 
-Bloggerwp Theme, 2022 WordPress.org
+Bloggerwp Theme, 2023 WordPress.org
 Bloggerwp is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
