@@ -9,7 +9,7 @@
 
 if ( ! defined( 'bloggerwp_version' ) ) {
 	// Replace the version number of the theme on each release.
-	define( 'bloggerwp_version', '1.0.2' );
+	define( 'bloggerwp_version', '1.0.3' );
 }
 
 /* Theme Constants */
