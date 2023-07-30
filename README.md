@@ -1,4 +1,4 @@
-<h2>Bloggerwp theme is lightweight Responsive blog theme. it supports Gutenberg Editor, custom logo, menu, page, post, custom background color , widgets , custom copyright text.</h2>
+<p>Bloggerwp theme is lightweight Responsive blog theme. it supports Gutenberg Editor, custom logo, menu, page, post, custom background color , widgets , custom copyright text.</p>
 
 <h2>Features:</h2>
 <ul>
