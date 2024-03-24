@@ -8,10 +8,8 @@
  */
 
 if ( ! defined( 'bloggerwp_version' ) ) {
-	
 	// Replace the version number of the theme on each release.
-	define( 'bloggerwp_version', '1.0.6' );
-	
+	define( 'bloggerwp_version', '1.1.2' );
 }
 
 /* Theme Constants */
@@ -60,7 +58,7 @@ function bloggerwp_setup() {
 			'primary' => esc_html__( 'Primary', 'bloggerwp' ),
 		)
 	);
-	/* Adde Theme Support */
+	/* Add Theme Support */
 	add_theme_support('html5', array(
 			'search-form',
 			'comment-form',

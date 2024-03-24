@@ -413,6 +413,26 @@ a.button.wc-backward:hover {
   background: transparent !important;
 }
 
+.add_to_cart_button{
+  width: 100%;
+  text-align: center;
+}
+.added_to_cart.wc-forward {
+  width: 100%;
+  text-align: center;
+  margin-left: 0px !important;
+  margin-top: 20px;
+}
+
+.woocommerce-checkout .wc-block-components-form .wc-block-components-text-input input:autofill + label, .woocommerce-checkout .wc-block-components-form .wc-block-components-text-input.is-active label, .woocommerce-checkout .wc-block-components-text-input input:autofill + label, .woocommerce-checkout .wc-block-components-text-input.is-active label
+.woocommerce-checkout .wc-block-components-combobox.is-active .wc-block-components-combobox-control label.components-base-control__label, .woocommerce-checkout .wc-block-components-combobox:focus-within .wc-block-components-combobox-control label.components-base-control__label, .woocommerce-checkout .wc-block-components-form .wc-block-components-combobox.is-active .wc-block-components-combobox-control label.components-base-control__label, .woocommerce-checkout .wc-block-components-form .wc-block-components-combobox:focus-within .wc-block-components-combobox-control label.components-base-control__label
+{
+  display: none;
+}
+.woocommerce-checkout .wc-block-components-address-form-wrapper input, .woocommerce-checkout  .wc-block-components-address-form input{
+  height: 60px;
+}
+
 .woocommerce-order-overview.woocommerce-thankyou-order-details.order_details {
   padding-left: 0;
 }
